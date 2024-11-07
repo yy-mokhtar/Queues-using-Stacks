@@ -7,6 +7,9 @@ This repository contains the solution for Assignment 2 in CSAI - 230 (Fall 2024)
 
 The goal of the assignment is to demonstrate a deep understanding of Stacks and Queues, as well as to analyze and optimize the performance of the Queue ADT using Big-O notation.
 
+### Source Code:
+https://github.com/yy-mokhtar/Queues-using-Stacks 
+
 # Project Structure
 
 Queues/
