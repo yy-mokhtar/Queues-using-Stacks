@@ -10,8 +10,9 @@ The goal of the assignment is to demonstrate a deep understanding of Stacks and 
 # Project Structure
 
 Queues/
-├── Queue_attempt_1.cpp        
-├── Queue_attempt_2.cpp        
+
+Queue_attempt_1.cpp        
+Queue_attempt_2.cpp        
 Makefile                      
 README.md                
 
@@ -26,7 +27,7 @@ Open a terminal and navigate to the Queues directory.
 
 ## To compile the project, use the following command:
 
-make // This will compile both the Queue_attempt_1.cpp and Queue_attempt_2.cpp files, creating the corresponding executables Queue_attempt_1 and Queue_attempt_2.
+make - This will compile both the Queue_attempt_1.cpp and Queue_attempt_2.cpp files, creating the corresponding executables Queue_attempt_1 and Queue_attempt_2.
 
 # Running the Program:
 After compiling, you can run the first attempt (using original Stack implementation) by executing (on bash or powershell):
