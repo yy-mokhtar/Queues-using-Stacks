@@ -10,10 +10,10 @@ The goal of the assignment is to demonstrate a deep understanding of Stacks and 
 # Project Structure
 
 Queues/
-├── Queue_attempt_1.cpp        # First attempt of Queue using the original Stack implementation
-├── Queue_attempt_2.cpp        # Second attempt of Queue with an optimized Stack implementation
-Makefile                       # Make File
-README.md                     # This file
+├── Queue_attempt_1.cpp        
+├── Queue_attempt_2.cpp        
+Makefile                      
+README.md                
 
 # Requirements
 GNU C/C++ Compiler (GCC)
